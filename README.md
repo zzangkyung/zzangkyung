@@ -1,12 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color={0%: "614385", 100%: "516395"}&height=300&section=header&text=hyunkyung World!capsule%20render&fontSize=90" />
-
-    {
-        "idx" : 25 ,
-{0%: "614385", 100%: "516395"}
-        },
-        "텍스트" : " f7f5f5 " ,
-        "텍스트Bg" : " 282829 "
-    }
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyunkyung<br>World!capsule%20render&fontSize=90)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
