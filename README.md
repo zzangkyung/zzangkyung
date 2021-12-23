@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyunkyung World!capsule%20render&fontColor=ffffff&fontSize=90) -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=fc636b&height=300&section=header&text=hyunkyung World!&fontColor=ffffff&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=fff9ea&height=300&section=header&text=hyunkyung World!&fontColor=ffffff&fontSize=80" />
 
 
 
