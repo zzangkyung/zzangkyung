@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyunkyung<br>World!capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyunkyung&nbspWorld!capsule%20render&fontSize=90)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
