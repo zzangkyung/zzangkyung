@@ -7,9 +7,23 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-roundsquare&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQyery-0769AD?style=flat-roundsquare&logo=jQuery&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Github-ff69b4?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Github-ff69b4?style=flat-roundsquare&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-roundsquare&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-roundsquare&logo=Node.js&logoColor=white"/></a>&nbsp 
+</p>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-roundsquare&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-roundsquare&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-roundsquare&logo=AdobeXD&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-roundsquare&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="center">🍒 ME 🍒</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-roundsquare&logo=Instagram&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-roundsquare&logo=Naver&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
