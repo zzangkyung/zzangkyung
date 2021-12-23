@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Github-ff69b4?style=flat-roundsquare&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
-
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-roundsquare&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
@@ -22,12 +20,10 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-roundsquare&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
 </p>
 
-
-
 <h3 align="center">🍒 ME 🍒</h3>
 <p align="center">
   <a href="https://www.instagram.com/szang._.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-roundsquare&logo=Instagram&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-roundsquare&logo=Naver&logoColor=white"/></a>&nbsp
+  <a href="mailto:gusrud5992@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-roundsquare&logo=Naver&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
