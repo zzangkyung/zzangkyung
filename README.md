@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyunkyung World!capsule%20render&fontColor=ffffff&fontSize=90) -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&weight=100%&height=200&section=header&text=hyunkyung World!blinking&fontColor=ffffff&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=fc636b&weight=100%&height=200&section=header&text=hyunkyung World!&animation=blinking&fontColor=ffffff&fontSize=70" />
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
