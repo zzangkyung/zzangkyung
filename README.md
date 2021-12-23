@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-roundsquare&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-roundsquare&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-roundsquare&logo=AdobeXD&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-roundsquare&logo=VSCode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-roundsquare&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
