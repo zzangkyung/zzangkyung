@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-roundsquare&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-roundsquare&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-roundsquare&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/jQyery-4479A1?style=flat-roundsquare&logo=jQuery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-roundsquare&logo=PHP&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-roundsquare&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github-ff69b4?style=flat-roundsquare&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
