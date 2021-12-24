@@ -9,7 +9,7 @@
 </p>
 
 <!-- 기술 -->
-<h3 align="center">🤍 Tech Stack 🤍</h3>
+<h3 align="center">💙 Tech Stack 💙</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-roundsquare&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-roundsquare&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -22,7 +22,7 @@
 </p>
 <br>
 
-<h3 align="center">🤍 Tools 🤍</h3>
+<h3 align="center">💚 Tools 💚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-roundsquare&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-roundsquare&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
@@ -32,7 +32,7 @@
 <br>
 
 ![zzangkyung's github stats](https://github-readme-stats.vercel.app/api?username=zzangkyung&show_icons=true)
-[![zzangkyung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangkyung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/zzangkyung)
+[![zzangkyung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangkyung&show_icons=true&hide_border=true&title_color=FF79B5&icon_color=FF79B5&layout=compact)](https://github.com/zzangkyung)
 
 
 
