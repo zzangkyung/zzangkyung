@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85477,100:FFCBFF&height=300&section=header&text=🔮 hyunkyung World!🔮&fontColor=FFFFFF&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE5A7C,100:FFCBE2&height=300&section=header&text=🔮 hyunkyung World!🔮&fontColor=FFFFFF&fontSize=80" />
 
 
 
