@@ -32,10 +32,8 @@
 </p>
 <br>
 
-<div aligv=""></div>
 ![zzangkyung's github stats](https://github-readme-stats.vercel.app/api?username=zzangkyung&show_icons=true)
 [![zzangkyung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangkyung&show_icons=true&hide_border=true&title_color=FF79B5&icon_color=FF79B5&layout=compact)](https://github.com/zzangkyung)
-
 
 
 
