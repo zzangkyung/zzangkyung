@@ -7,6 +7,7 @@
   <a href="https://www.instagram.com/szang._.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-roundsquare&logo=Instagram&logoColor=white"/></a>&nbsp 
   <a href="mailto:gusrud5992@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-roundsquare&logo=Naver&logoColor=white"/></a>&nbsp
 </p>
+<br>
 
 <!-- 기술 -->
 <h3 align="center">💙 Tech Stack 💙</h3>
