@@ -3,7 +3,7 @@
 <!-- 내정보 -->
 <h3 align="center">🍒 ME 🍒</h3>
 <p align="center">
-    <a href="https://cherry-developer.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-roundsquare&logo=Blogger&logoColor=white"/></a>&nbsp 
+    <a href="https://cherry-developer.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-roundsquare&logo=Undertale&logoColor=white"/></a>&nbsp 
   <a href="https://www.instagram.com/szang._.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-roundsquare&logo=Instagram&logoColor=white"/></a>&nbsp 
   <a href="mailto:gusrud5992@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-roundsquare&logo=Naver&logoColor=white"/></a>&nbsp
 </p>
@@ -31,6 +31,7 @@
 </p>
 <br>
 
+<div aligv=""></div>
 ![zzangkyung's github stats](https://github-readme-stats.vercel.app/api?username=zzangkyung&show_icons=true)
 [![zzangkyung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangkyung&show_icons=true&hide_border=true&title_color=FF79B5&icon_color=FF79B5&layout=compact)](https://github.com/zzangkyung)
 
